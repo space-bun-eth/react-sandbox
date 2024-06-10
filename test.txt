@@ -1,4 +1,0 @@
-test
-testing git
-testing git commit author
-Second test for git commit author
